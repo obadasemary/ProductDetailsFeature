@@ -1,0 +1,78 @@
+{
+  "originHash" : "ec0aae9502d8ce453ffd5907b2af070f6ca3ae092b7cdd01850899d370bd21ff",
+  "pins" : [
+    {
+      "identity" : "appdependencymodule",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/AppDependencyModule.git",
+      "state" : {
+        "revision" : "a80e65adc090108c7e466a09190881bf90eb356c",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "brandremoteimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/BrandRemoteImage.git",
+      "state" : {
+        "revision" : "a612e2112345256578050319f1c26ae4518e92f7",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "brandrepository",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/BrandRepository.git",
+      "state" : {
+        "revision" : "c50500b21749bcdee84921901dc150955ccb85bc",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "brandui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/BrandUI.git",
+      "state" : {
+        "revision" : "9144fd32ea46f49d65619c1edcc6aa018698b405",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "brandusecase",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/BrandUseCase.git",
+      "state" : {
+        "revision" : "5702758a9290d5b6a1185ceb090833b6a0e6c2d5",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "coreapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/CoreAPI.git",
+      "state" : {
+        "revision" : "d507b09e8a44e8b75475c7de130d043ffdfa61b9",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "2ef543ee21d63734e1c004ad6c870255e8716c50",
+        "version" : "7.12.0"
+      }
+    },
+    {
+      "identity" : "networklayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obadasemary/NetworkLayer.git",
+      "state" : {
+        "revision" : "a132fd09f0c3806f2489e5061fa1ef8fba81cfb1",
+        "version" : "1.0.6"
+      }
+    }
+  ],
+  "version" : 3
+}
