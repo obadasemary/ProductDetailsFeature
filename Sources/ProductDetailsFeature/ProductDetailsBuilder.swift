@@ -13,7 +13,7 @@ public struct ProductDetailsBuilder {
     private init() { }
     
     public static func build(
-        productAdapters: ProductAdapter,
+        productAdapters: BrandUseCase.ProductAdapter,
         navigationHandler: @escaping ProductDetailsViewModel.NavigationActionHandler
     ) -> UIViewController {
         let viewModel = ProductDetailsViewModel(

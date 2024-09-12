@@ -9,6 +9,7 @@ import SwiftUI
 import AppDependencyModule
 import BrandUI
 import BrandRemoteImage
+import BrandUseCase
 
 public struct ProductDetailsView: View {
     
@@ -41,7 +42,7 @@ private extension ProductDetailsView {
 }
 
 #Preview {
-    let product = ProductAdapter.init(
+    let product = BrandUseCase.ProductAdapter.init(
         id: "599203108",
         imagePath: "https://cdn.salla.sa/ydZbx/8f14a689-99d5-4df7-bfe8-0f1568383963-500x341.83673469388-kmz8WtSQD5xNXY3SIhk4LG6ZvyQaWw6zyOmFO8MV.png",
         name: "توكة تنعيم",

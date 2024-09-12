@@ -1,5 +1,5 @@
 {
-  "originHash" : "ec0aae9502d8ce453ffd5907b2af070f6ca3ae092b7cdd01850899d370bd21ff",
+  "originHash" : "d0ca1c1bb106498b6b9be0fe0b77e194730a0e28fa75acd09f657bc416ac27bc",
   "pins" : [
     {
       "identity" : "appdependencymodule",
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/obadasemary/BrandUseCase.git",
       "state" : {
-        "revision" : "5702758a9290d5b6a1185ceb090833b6a0e6c2d5",
-        "version" : "1.0.4"
+        "revision" : "7e0200f3c475aaef3c2521f3c30080eecd8e8483",
+        "version" : "1.0.7"
       }
     },
     {

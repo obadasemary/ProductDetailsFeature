@@ -15,11 +15,11 @@ public final class ProductDetailsViewModel: ObservableObject {
     private let navigationHandler: NavigationActionHandler
     
     // Published property to store brand response and errors
-    @Published var productAdapters: ProductAdapter
+    @Published var productAdapters: BrandUseCase.ProductAdapter
     @Published var isLoading: Bool = false
     
     public init(
-        productAdapters: ProductAdapter,
+        productAdapters: BrandUseCase.ProductAdapter,
         navigationHandler: @escaping ProductDetailsViewModel.NavigationActionHandler
     ) {
         self.productAdapters = productAdapters
